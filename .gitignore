@@ -1,0 +1,23 @@
+# Security & Credentials
+.env
+secret_keys.json
+
+# Python & AI Environments
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Web Development
+node_modules/
+dist/
+build/
+
+# Data & Notebook Checkpoints
+.ipynb_checkpoints/
+*.csv       # (Optional: if your datasets are too large for GitHub)
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
